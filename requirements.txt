@@ -1,0 +1,4 @@
+crewai
+llama-index
+llama-index-llms-gemini
+streamlit
